@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background-color: #d7dde5;
 }
 ol, ul {
 	list-style: none;
@@ -72,7 +73,7 @@ h3 {
 
 .navbar {
 	padding: 20px;
-	background: #ced3db;
+	background: #ffffff;
 }
 
 li {
@@ -96,8 +97,11 @@ p {
 img {
 	margin-top: 10px;
 	margin-bottom: 10px;
-	align-content: center;
+	text-align: center;
 }
+
+
+
 
 
 
