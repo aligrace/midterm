@@ -56,10 +56,18 @@ h1 {
 	font-weight: bold; font-style: italic;
 	font-size: 50px;
 }
-h2, h3, {
+h2, {
+	font-family: "times new roman", sans-serif;
+	font-weight: bold; 
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
 	font-family: "times new roman", sans-serif;
 	font-weight: bold; 
 	font-size: 20px;
+	text-align: center;
 }
 
 .navbar {
@@ -73,17 +81,26 @@ li {
 	padding: 30px;
 }
 
-img {
-	border: 10px black;
-	border-radius: 20%
-}
-
 ul {
 	
 }
 p {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
+
+img {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	align-content: center;
+}
+
+
+
+
+
+
